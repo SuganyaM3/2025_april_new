@@ -6,7 +6,7 @@ from datetime import timedelta
 import requests
 
 # ========== CONFIG ==========
-GOOGLE_API_KEY = "AIzaSyBS4P7GSkizxUqPKLVJBXkfSJ9KFw9Nt90"  # Replace this with your Google API Key
+GOOGLE_API_KEY = "******"  # Replace this with your Google API Key
 PLACE_SEARCH_URL = "https://maps.googleapis.com/maps/api/place/textsearch/json"
 PLACE_DETAILS_URL = "https://maps.googleapis.com/maps/api/place/details/json"
 
